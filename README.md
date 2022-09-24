@@ -1,7 +1,7 @@
 ﻿<h1 align="center">PROJETO: UNES UNIVERSIDADE </h1>
  
  <h2>Sobre:</h2>
- <p>Projeto criado para fins de estudo em conjunto com o curso de Desenvolvimento Web da Udemy. O Unes Universidade é uma página web com o intuito de apresentar a fauldade para os usuários.</p>
+ <p>Projeto criado para fins de estudo em conjunto com o curso de Desenvolvimento Web da Udemy. O Unes Universidade é uma página institucional com o layout simples, o principal objetivo é apresentar a universidade para os usuários.</p>
  
  <h2>Tecnologia utilizada:</h2>
  <p>HTML: Linguagem de Marcação de Hipertexto</p>
